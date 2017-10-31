@@ -9,6 +9,7 @@ Problem Company wants to automate the loan eligibility process (real time) based
 
 #### Variable Description
 
+
 Loan_ID	Unique Loan ID
 
 Gender	Male/ Female
